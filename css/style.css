@@ -1,0 +1,16 @@
+/*  css   cascading  stylesheet */
+
+body {
+    height: 3000px;
+}
+ 
+div {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    color: #fff;
+    border: 2px solid blue;
+    /* solid   dotted  dashed */
+
+    border-radius: 70px;
+}
